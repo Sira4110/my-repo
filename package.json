@@ -5,7 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+<<<<<<< HEAD
     "build": "vite build --base=/test1/",
+=======
+    "build": "vite build --base=/my-repo/",
+>>>>>>> 6ba49ea73577ace540ba9e8952285708a0cdb4f3
     "preview": "vite preview"
   },
   "devDependencies": {
